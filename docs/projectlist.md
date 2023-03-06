@@ -1,6 +1,6 @@
-**
+
 # Project List
-**
+
 #### Preference Project
 |Preference|Project|Reason we like it|
 |--|--|--|

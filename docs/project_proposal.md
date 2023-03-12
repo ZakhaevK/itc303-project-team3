@@ -23,6 +23,12 @@
 | Virtualisation Knowledge | ITC314 (DI) |
 | Database Knowledge | ITC114(HD x2), uses mysql for personal sites, Oracle SQL used by one member in workplace databases |
 
+### Project proposal: (chosen app) P2 IOTA DATABASE
+
+
+##### About:
+At this stage we do not have further information from the interactive site as our planned meeting with the running supervisors has not occured yet (planned ~17.3), however this app is to extend or add functionality to an existing system. Some of the functional and non functional requirements are extract data from messages, write them to both postgres and time series databases, include an API, work within a given container, work with RabbitMQ and use python to implement the codebase
+
 #### Project proposal: Interactive Card App
 
 

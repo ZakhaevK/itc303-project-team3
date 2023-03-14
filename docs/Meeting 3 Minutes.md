@@ -9,11 +9,11 @@
  - Confirmed all tasks for A1 is done as due today
  - Discussed iteration plan: 
       - Due dates: 20/3/2023
-	   - Assigned roles: 
-		   - Project Vision: Sara
-			   - Risk List: Cal
-			   - Proposed Architecture: Ras
-			   - Requirement Model: Zak
+      - Assigned roles: 
+	   	- Project Vision: Sara
+		- Risk List: Cal
+		- Proposed Architecture: Ras
+		- Requirement Model: Zak
 
 **Next meeting topics:**
  - Discuss progress on assigned tasks
